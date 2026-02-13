@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "title": "Inception",
+    "tagline": "Your mind is the scene of the crime",
+    "vote_average": 8.8,
+    "release_date": "2010-07-16",
+    "runtime": 148
+  },
+  {
+    "id": 2,
+    "title": "Interstellar",
+    "tagline": "Mankind was born on Earth. It was never meant to die here.",
+    "vote_average": 8.6,
+    "release_date": "2014-11-07",
+    "runtime": 169
+  }
+]

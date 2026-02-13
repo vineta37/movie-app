@@ -1,0 +1,79 @@
+/* Global Styling */
+body {
+  margin: 0;
+  padding: 30px;
+  font-family: "Segoe UI", Arial, sans-serif;
+  background-color: #f4f6f8;
+  color: #333;
+}
+
+/* Page Container */
+.movie-details {
+  max-width: 900px;
+  margin: auto;
+}
+
+
+/* Back Button */
+button {
+  background-color: #222;
+  color: white;
+  border: none;
+  padding: 8px 16px;
+  border-radius: 6px;
+  cursor: pointer;
+  margin-bottom: 20px;
+  font-size: 14px;
+  transition: 0.2s ease;
+}
+
+button:hover {
+  background-color: #444;
+}
+
+/* Movie Title */
+h1 {
+  margin-bottom: 20px;
+  font-size: 32px;
+}
+
+/* Movie Details */
+p {
+  background: white;
+  padding: 10px 14px;
+  border-radius: 6px;
+  margin-bottom: 10px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
+  font-size: 14px;
+}
+
+strong {
+  text-transform: capitalize;
+}
+
+.movie-details {
+  max-width: 900px;
+  margin: auto;
+}
+
+.details-card {
+  background: white;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.08);
+}
+
+.back-btn {
+  margin-bottom: 20px;
+  padding: 8px 14px;
+  border: none;
+  background: #222;
+  color: white;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.back-btn:hover {
+  background: #444;
+}
+
